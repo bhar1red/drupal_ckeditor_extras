@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @file
+ * Install, update, and uninstall functions for CKEditor Simplebox.
+ */
+
+/**
+ * Implements hook_requirements().
+ */
+function ckeditor_extras_requirements($phase) {
+  $requirements = [];
+
+  return $requirements;
+}

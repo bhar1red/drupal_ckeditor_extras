@@ -1,0 +1,9 @@
+name: CKEditor Extras
+type: module 
+description: 'This plugin ads some extras custom plugins to CKEdtior. '
+package: CKEditor
+dependencies: 
+  - ckeditor
+version: VERSION
+core: '8.x'
+project: 'ckeditor_extras'
